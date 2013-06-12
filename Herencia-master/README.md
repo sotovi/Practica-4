@@ -1,0 +1,4 @@
+Herencia
+========
+
+Programa de herencia
